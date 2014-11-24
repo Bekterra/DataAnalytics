@@ -1,4 +1,0 @@
-Formulae for EXcel :
-
-1. Sunject Marks
-						=IF(A2=888, "N/A", IF( LEFT(A2,1) ="*", MID(A2,2,2), A2) )
